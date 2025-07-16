@@ -21,6 +21,13 @@
     "allowOffline": true
   },
   {
+    "id": "ccb5033bc058d704",
+    "username": "62881025304565",
+    "password": "HDReel",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
