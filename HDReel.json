@@ -56,6 +56,13 @@
     "allowOffline": true
   },
   {
+    "id": "8b285b2696035a1b",
+    "username": "9779810340458",
+    "password": "HDReel",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
